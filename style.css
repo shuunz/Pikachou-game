@@ -1,0 +1,171 @@
+body, html {
+    width: 100%; height: 100%;
+    margin: 0;
+    background-image: url(background2.jpg);
+    background-size: cover;
+    z-index:-1;
+    position: relative;
+    background-repeat: no-repeat;
+    background-position-y: 0%
+  }
+
+  .pikachou{
+    position: absolute;;
+    background-image: url(tumblr_mdta50e8IX1rlbw7io1_250.gif);
+    bottom:20px;
+    left:10px;
+    width: 250px;
+    height: 190px;
+    transition: top 1s, left 1s;
+    /* border: 4px solid red; */
+    z-index: 1;
+  }
+    
+  
+  .enemy{
+    position: absolute;
+    background-image: url(092_gastly_by_andrepaz-d3eeel5.gif);
+    right:0px;
+    bottom:190px;
+    width: 80px;
+    height: 80px;
+    transition: top 1s, left 1s;
+    background-size: 80px;
+    z-index:0;
+    /* 
+    border: 4px solid black; */
+  }
+    
+  .pokeball{
+    position: absolute;;
+    background-image: url(POKEBALL.gif);
+    right:0px;
+    bottom:190px;
+    width: 80px;
+    height: 80px;
+    transition: top 1s, left 1s;
+    background-size: 80px;
+    z-index:0;
+    /* border: 4px solid black; */
+  }
+    
+  .startGame{
+    background-image: url(pokemon20logo20high20res.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    /* border:4px solid white; */
+    position: relative;
+    width: 50%;
+    height: 50%;
+    left: 25%;
+    top: 50px;
+  }
+    
+  label{
+    color:white;
+    position: absolute;
+    text-align: center;
+    font-family: "Comic Sans MS";
+    font-size:20px;
+    top: 70%;
+    left:37%;
+  }
+
+  .enemyScore{
+    background-image: url(Gengar.png);
+    background-size: 30px;
+    background-repeat: no-repeat;
+    position: absolute;
+    right:20px;
+    top:113px;
+    border: 4px solid white;
+    height: 40px;
+    width: 60px;
+    padding: 10px;
+    background-position-x: 10px;
+    background-position-y: 12px;
+    text-align: right;
+    padding-bottom: 0px;
+    font-family: "Comic Sans MS";
+    font-size:20px;
+    font-weight: bold;
+    border-radius: 30px;
+  }
+
+  .score{
+    background-image: url(POKEBALL2.png);
+    background-size: 30px;
+    background-repeat: no-repeat;
+    position: absolute;
+    right:20px;
+    top:50px;
+    border: 4px solid white;
+    height: 40px;
+    width: 60px;
+    padding: 10px;
+    background-position-x: 10px;
+    background-position-y: 8px;
+    text-align: right;
+    padding-bottom: 0px;
+    font-family: "Comic Sans MS";
+    font-size:20px;
+    font-weight: bold;
+    border-radius: 30px;
+    /*   
+    justify-content: flex-end; */
+  }
+  
+  .player-info{
+    position: absolute;
+    /* border: 4px solid white; */
+    font-family: "Comic Sans MS";
+    font-size:20px;
+    top:1%;
+    height: 50px;
+    widows: 50px;
+    /* justify-content: center; */
+    /* padding:20px; */
+    padding: 2%;
+    padding-right: 15px;;
+    margin-left:21%;
+    padding-left: 9%;
+    font-size: 30px;
+    font-weight: bold;
+    color:black;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: 0px;
+    text-align:center;
+    padding-top:3%;
+  }
+  
+  .pikaImg{
+    position: absolute;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: 0px;
+    text-align:center;
+    padding-top:2%;
+    left:27%;
+    height: 12%;
+  }
+  
+  .restartButton{
+    position:absolute;
+    top:77%;
+    left:47%;
+  }
+  
+  .winerImg{
+    position:absolute;
+    top:22%;
+    left:36%;
+  }
+    
+  .loserImg{
+    position:absolute;
+    top:-8%;
+    left:25%;
+  }
+    
