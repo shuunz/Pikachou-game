@@ -12,7 +12,7 @@
 
 
 **The physical body of objects:**
-![https://i.postimg.cc/h4kVBGXb/pokeball-Physical-Body.png](pokeballPhysicalBody)
+
 - Each time the Physical body of Pikachou touching 
  Physical body of Pokeball the Pokeball score will increase 
 - And when the Physical body of Pikachou touching 
