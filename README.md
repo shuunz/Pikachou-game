@@ -19,4 +19,4 @@
  Physical body of Enemies the Enemies score will increase 
 
 **Technologies:**
--HTML/CSS/JQ
+- HTML/CSS/JQ
