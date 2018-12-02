@@ -17,3 +17,6 @@
  Physical body of Pokeball the Pokeball score will increase 
 - And when the Physical body of Pikachou touching 
  Physical body of Enemies the Enemies score will increase 
+
+**Technologies:**
+-HTML/CSS/JQ
