@@ -11,7 +11,10 @@
 - When Pikachou collect 10 Pokeballs and less than 10 Enemies , you win .Otherwise , you will lose.
 
 
+
 **The physical body of objects:**
+
+<img width="273" alt="pikaphysicalbody" src="https://user-images.githubusercontent.com/20524455/49337799-1c615400-f62a-11e8-9846-ed7753949b60.png"> <img width="87" alt="pokeballphysicalbody" src="https://user-images.githubusercontent.com/20524455/49337790-018edf80-f62a-11e8-866f-25a0802b7da9.png"> <img width="88" alt="enemiesphysicalbody" src="https://user-images.githubusercontent.com/20524455/49337800-1f5c4480-f62a-11e8-901b-3ad29e75a82d.png">
 
 - Each time the Physical body of Pikachou touching 
  Physical body of Pokeball the Pokeball score will increase 
