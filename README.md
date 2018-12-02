@@ -20,3 +20,7 @@
 
 **Technologies:**
 - HTML/CSS/JQ
+
+**Specisl Thanks:**
+
+I would like to express my deep appreciation and my sincere gratitude to best instructors Trevor , Jackie , and Ghadeer for the valuable advice guidance throughout this project, and of course for w3schools.com website.
